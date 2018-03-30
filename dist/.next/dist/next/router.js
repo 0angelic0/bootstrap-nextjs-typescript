@@ -1,0 +1,7 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", { value: true });
+var router_1 = require("next/dist/lib/router/index.js");
+exports.default = router_1.default;
+//# sourceMappingURL=router.js.map
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImRpc3QvbmV4dC9yb3V0ZXIuanMiXSwibmFtZXMiOlsiT2JqZWN0IiwiZGVmaW5lUHJvcGVydHkiLCJleHBvcnRzIiwidmFsdWUiLCJyb3V0ZXJfMSIsInJlcXVpcmUiLCJkZWZhdWx0Il0sIm1hcHBpbmdzIjoiQUFBQTs7QUFDQSxPQUFPLEFBQVAsZUFBc0IsQUFBdEIsU0FBK0IsQUFBL0IsY0FBNkMsRUFBRSxPQUFPLEFBQVQsQUFBN0M7QUFDQSxJQUFJLFdBQVcsQUFBWCxBQUFKO0FBQ0EsUUFBUSxBQUFSLFVBQWtCLFNBQVMsQUFBM0I7QUFDQSIsImZpbGUiOiJyb3V0ZXIuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL2t1bmdraW5nL1Byb2plY3RzL2Jvb3RzdHJhcC1uZXh0anMtdHlwZXNjcmlwdCJ9

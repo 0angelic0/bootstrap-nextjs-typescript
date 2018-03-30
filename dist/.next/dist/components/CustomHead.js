@@ -1,0 +1,11 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", { value: true });
+var React = require("react");
+var head_1 = require("../next/head");
+var CustomHead = function CustomHead() {
+    return React.createElement(head_1.default, null, React.createElement("link", { rel: 'stylesheet', href: '//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css' }), React.createElement("link", { rel: 'stylesheet', href: 'https://unpkg.com/react-table@latest/react-table.css' }), React.createElement("script", { src: "/static/script/azure-storage.common.min.js" }), React.createElement("script", { src: "/static/script/azure-storage.blob.min.js" }), React.createElement("meta", { name: "viewport", content: "width=device-width, initial-scale=1" }));
+};
+exports.default = CustomHead;
+//# sourceMappingURL=CustomHead.js.map
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImRpc3QvY29tcG9uZW50cy9DdXN0b21IZWFkLmpzIl0sIm5hbWVzIjpbIk9iamVjdCIsImRlZmluZVByb3BlcnR5IiwiZXhwb3J0cyIsInZhbHVlIiwiUmVhY3QiLCJyZXF1aXJlIiwiaGVhZF8xIiwiQ3VzdG9tSGVhZCIsImNyZWF0ZUVsZW1lbnQiLCJkZWZhdWx0IiwicmVsIiwiaHJlZiIsInNyYyIsIm5hbWUiLCJjb250ZW50Il0sIm1hcHBpbmdzIjoiQUFBQTs7QUFDQSxPQUFPLEFBQVAsZUFBc0IsQUFBdEIsU0FBK0IsQUFBL0IsY0FBNkMsRUFBRSxPQUFPLEFBQVQsQUFBN0M7QUFDQSxJQUFJLFFBQVEsQUFBUixBQUFKO0FBQ0EsSUFBSSxTQUFTLFFBQVEsQUFBUixBQUFiO0FBQ0EsSUFBSSxhQUFhLFNBQWIsQUFBYSxhQUFZLEFBQ3pCO1dBQU8sTUFBTSxBQUFOLGNBQW9CLE9BQU8sQUFBM0IsU0FBb0MsQUFBcEMsTUFDSCxNQUFNLEFBQU4sY0FBb0IsQUFBcEIsUUFBNEIsRUFBRSxLQUFLLEFBQVAsY0FBcUIsTUFBTSxBQUEzQixBQUE1QixBQURHLDBFQUVILE1BQU0sQUFBTixjQUFvQixBQUFwQixRQUE0QixFQUFFLEtBQUssQUFBUCxjQUFxQixNQUFNLEFBQTNCLEFBQTVCLEFBRkcsMkRBR0gsTUFBTSxBQUFOLGNBQW9CLEFBQXBCLFVBQThCLEVBQUUsS0FBSyxBQUFQLEFBQTlCLEFBSEcsaURBSUgsTUFBTSxBQUFOLGNBQW9CLEFBQXBCLFVBQThCLEVBQUUsS0FBSyxBQUFQLEFBQTlCLEFBSkcsK0NBS0gsTUFBTSxBQUFOLGNBQW9CLEFBQXBCLFFBQTRCLEVBQUUsTUFBTSxBQUFSLFlBQW9CLFNBQVMsQUFBN0IsQUFBNUIsQUFMRyxBQUFQLEFBTUg7QUFQRDtBQVFBLFFBQVEsQUFBUixVQUFrQixBQUFsQjtBQUNBIiwiZmlsZSI6IkN1c3RvbUhlYWQuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL2t1bmdraW5nL1Byb2plY3RzL2Jvb3RzdHJhcC1uZXh0anMtdHlwZXNjcmlwdCJ9
